@@ -1,0 +1,61 @@
+{
+  "name": "luis-nodejs-bot-jspruance",
+  "padlock": "lMR4sBl1VchD/2uS7m8fwg==!kJpIlx8r+tBzkJOcXQ0InR7tCHf8z6+5aEToMuXmXTLoV0pxoC8cEHrUXoSX3wIJ",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "9e3784fb-aeef-496b-998f-048ef91c3fbb",
+      "subscriptionId": "04763a06-40dc-4459-a629-f475e83fe64e",
+      "resourceGroup": "luis-nodejs-bot-resource-group",
+      "serviceName": "luis-nodejs-bot-jspruance",
+      "type": "abs",
+      "name": "luis-nodejs-bot-jspruance",
+      "id": "1"
+    },
+    {
+      "connectionString": "Pxqj1RHLmfGVkTHjCD28Kw==!f0I9MXY5CujHf0OIHL4i2T2p3sKDNC/ZDEgYVifxsEzsUvgk4Ee5czLPSOpnT6MkQqJohEnk+mIfWwurMDS+9U2Xqc9mjW2Cw4RAErUHlErYvwBoaQijAJiqb8zhjR8wRMmwGAjHJFw+lVEWzZbsRJm6ilZYKZESQEcFR3xsGv4OpVfvG4XA7WRwujklUH2N1Deg3YYxSj92XTXQx4pXWwKyf3oQ1JaXLdvBOxFTJDE=",
+      "tenantId": "9e3784fb-aeef-496b-998f-048ef91c3fbb",
+      "subscriptionId": "04763a06-40dc-4459-a629-f475e83fe64e",
+      "resourceGroup": "luis-nodejs-bot-resource-group",
+      "serviceName": "luisnodejsbotjspruance99",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "84aba6d5-cf10-480e-b5af-327387a46174",
+      "appPassword": "ey0Ilv6l37WG8MuRdidIOg==!oFZ1MDjKwxbsa0QfUE3Jn79nm27dMGvm82DQDbihEwE=",
+      "endpoint": "https://luis-nodejs-bot-jspruance.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "WMfU7hhmfNdCYyiQkPMqRw==!+CPhl+MrQ+3+29PXCRRfrE41RRLevQB7f3GS0N5Izeijm49iqqnKG2pho8IR8R3f",
+      "applicationId": "cc3eaddb-6eb0-481e-990d-578889979463",
+      "apiKeys": {},
+      "tenantId": "9e3784fb-aeef-496b-998f-048ef91c3fbb",
+      "subscriptionId": "04763a06-40dc-4459-a629-f475e83fe64e",
+      "resourceGroup": "luis-nodejs-bot-resource-group",
+      "serviceName": "luis-nodejs-bot-jspruanceaa7n77",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "0e9b7213-d674-41b1-849f-4a0fa3332e1a",
+      "authoringKey": "2AGikMInc+1tF0ByDroCkA==!e9HTvEA7bpjmAWQ+F37hlyNGQINsguPieE+hegEsFWRl4urhnMCOratvIze+wsgb",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
